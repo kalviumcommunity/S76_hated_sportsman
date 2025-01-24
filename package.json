@@ -1,0 +1,15 @@
+{
+  "name": "hatedsportsman",
+  "version": "1.0.0",
+  "description": " anonymous voting and commenting system for sportsman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reeban austrive",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
