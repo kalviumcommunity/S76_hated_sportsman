@@ -7,6 +7,6 @@ app.get('/ping', (req, res)=>
     res.send('Pong!');}
 );
 
-app.listen(prompt, () =>{
+app.listen(port, () =>{
     console.log(`Server is running at http://localhost:${port}`);
 });
