@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const User = require('./schema');
+const User = require('./Backend/schema');
 
 // Create a new user (POST)
 router.post('/users', async (req, res) => {
