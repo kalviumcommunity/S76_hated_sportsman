@@ -42,4 +42,4 @@ This project is chosen for its unique and thought-provoking nature. It taps into
 
 
 ## Deploying link:
-https://friendly-kitsune-70d702.netlify.app/
+
