@@ -42,5 +42,4 @@ This project is chosen for its unique and thought-provoking nature. It taps into
 
 ## https://s76-hated-sportsman-2.onrender.com
 
-## Deploying link:
-https://musical-semifreddo-faab39.netlify.app/
+## https://musical-semifreddo-faab39.netlify.app/
