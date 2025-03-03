@@ -40,6 +40,7 @@ Github for version control
 ## Why this project:
 This project is chosen for its unique and thought-provoking nature. It taps into the human tendency to form opinions and express preferences, while also offering a platform for lighthearted (and sometimes controversial) discussions about sports personalities.
 
-## https://s76-hated-sportsman-2.onrender.com
+## Deployment Links:
+- [Render Deployment](https://s76-hated-sportsman-2.onrender.com)
+- [Netlify Deployment](https://musical-semifreddo-faab39.netlify.app/)
 
-## https://musical-semifreddo-faab39.netlify.app/
