@@ -42,4 +42,4 @@ This project is chosen for its unique and thought-provoking nature. It taps into
 
 
 ## Deploying link:
-
+https://musical-semifreddo-faab39.netlify.app/
